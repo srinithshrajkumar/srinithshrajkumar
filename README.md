@@ -14,10 +14,20 @@ I am passionate about leveraging data to unlock meaningful insights, enhance dec
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, SQL  
-- **Libraries/Frameworks**: Scikit-learn, TensorFlow, Keras, Pandas, NumPy  
-- **Tools**: Jupyter Notebook, Git, Docker  
-- **Platforms**: Google Colab, Kaggle  
+## 🛠️ Tech Stack
+
+- **Programming Languages:** Python, SQL, R
+- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Natural Language Processing (NLP):** NLTK, SpaCy, Transformers  
+- **Cybersecurity & Threat Detection:** Network Traffic Analysis, Anomaly Detection, Intrusion Detection Systems (IDS)  
+- **Web Development & APIs:** Django, Flask, REST APIs 
+- **DevOps & Tools:** Git, Docker, Google Colab, Jupyter Notebook, VS Code  
+- **Databases:** MySQL, PostgreSQL  
+- **Cloud & Deployment:** AWS (basics), 
+- **Others:** Explainable AI (XAI), Ensemble Learning, Time Series Forecasting  
+
+
 
 ---
 
